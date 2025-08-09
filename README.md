@@ -62,7 +62,7 @@ The analysis is designed to answer:
 - **Survival Rate by Gender**
 - **Survival Rate by Passenger Class**
 - **Age & Fare Distributions**
-- **Survival Rate by Class & Gender** 
+- **Survival Rate by Class & Gender** (bonus KPI)
 
 ---
 
@@ -70,6 +70,7 @@ The analysis is designed to answer:
 From the visualizations:
 - Clear survival differences across **gender** and **class**
 - Age and fare show notable spread that may relate to survival likelihood
+- Recommendation: use the **cleaned dataset** from this notebook for any predictive modeling or statistical testing
 
 ---
 
@@ -80,7 +81,7 @@ From the visualizations:
 
 ---
 
-## 🚀 Next Steps
+## 🚀 Next Steps & Decisions
 - Use cleaned dataset for **classification models** or **statistical tests**
 - Perform **feature engineering** and evaluate alternative imputation methods
 - Consider deeper interaction effects between features

@@ -4,15 +4,16 @@
 This project performs an exploratory data analysis (EDA) on the **Titanic dataset**.  
 It covers data loading, inspection, cleaning, and visualization — with a focus on survival rates and distributions (Age, Fare), including breakdowns by **gender** and **passenger class**.
 
+---
 
-## Table of Contents
-1. [Executive Summary](#executive-summary)
-2. [Objectives & Key Questions](#objectives--key-questions)
-3. [Data Preparation](#data-preparation)
-4. [Key Measures & KPIs](#key-measures--kpis)
-5. [Insights & Recommendations](#insights--recommendations)
-6. [Limitations](#limitations)
-7. [Next Steps & Decisions](#next-steps--decisions)
+## 📚 Table of Contents
+1. [Executive Summary](#-executive-summary)
+2. [Objectives & Key Questions](#-objectives--key-questions)
+3. [Data Preparation](#-data-preparation)
+4. [Key Measures & KPIs](#-key-measures--kpis)
+5. [Insights & Recommendations](#-insights--recommendations)
+6. [Limitations](#-limitations)
+7. [Next Steps & Decisions](#-next-steps--decisions)
 
 ---
 

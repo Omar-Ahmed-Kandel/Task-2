@@ -70,7 +70,6 @@ The analysis is designed to answer:
 From the visualizations:
 - Clear survival differences across **gender** and **class**
 - Age and fare show notable spread that may relate to survival likelihood
-- Recommendation: use the **cleaned dataset** from this notebook for any predictive modeling or statistical testing
 
 ---
 
